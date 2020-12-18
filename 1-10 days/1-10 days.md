@@ -1,11 +1,11 @@
-[✔] "The secret of getting ahead is getting started..."
+✔ "The secret of getting ahead is getting started..."
 
 ## DAY-2 ##
 
 > **TASK of the Day**
-- [✔] Typing = Keybr.com
+- ✔ Typing = Keybr.com
 
-- [✔] Web Development :
+- ✔ Web Development :
              
  - DNS and its working
    >>Domain Name System (DNS) is the phonebook of the Internet
@@ -16,11 +16,11 @@
  - Hosting
    >> It allocates space on a web server for a website to store its files
  ***
-- [✔] Gaming
+- ✔ Gaming
    
      - chess,2048
 ***
-- [✔]Skillrack
+- ✔Skillrack
 
       - Basic programming(loops)
 ***
